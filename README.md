@@ -1,4 +1,6 @@
 # Huffman-Shannon_fano
+# NAME: KRITHIKA SHERN A.O
+# REG NO: 212224060129
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
 Apply the Huffman and Shannon-Fano to this source. 
